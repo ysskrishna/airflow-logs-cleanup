@@ -102,7 +102,8 @@ All errors are logged to the console without stopping the cleanup process.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to submit a pull request or open an issue.
+Please read our [Contributing Guide](https://github.com/ysskrishna/airflow-logs-cleanup/blob/main/CONTRIBUTING.md) for details on our code of conduct, development setup, and the process for submitting pull requests.
+
 
 ## Support
 
