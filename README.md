@@ -5,6 +5,8 @@
 
 A lightweight solution to automatically clean up old Airflow log files, helping you save disk space and keep your Airflow environment tidy. This repository provides both a standalone script and an Airflow DAG for automated log cleanup.
 
+![OG Image](https://raw.githubusercontent.com/ysskrishna/airflow-logs-cleanup/main/media/og.webp)
+
 ## Why Airflow Logs Cleanup?
 
 Airflow generates a large volume of log files over time, which can quickly consume disk space. Manually cleaning these logs is tedious and error-prone. This tool automates the process by:
@@ -113,7 +115,7 @@ If you find this useful, please consider:
 
 ## License
 
-MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License - see the [LICENSE](https://github.com/ysskrishna/airflow-logs-cleanup/blob/main/LICENSE) file for details.
 
 ## Author
 
