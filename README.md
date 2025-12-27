@@ -100,7 +100,16 @@ All errors are logged to the console without stopping the cleanup process.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to submit a pull request or open an issue.\
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to submit a pull request or open an issue.
+
+## Support
+
+If you find this useful, please consider:
+
+- ⭐ **Starring** the repository on GitHub to help others discover it.
+- 💖 **Sponsoring** to support ongoing maintenance and development.
+
+[Become a Sponsor on GitHub](https://github.com/sponsors/ysskrishna) | [Support on Patreon](https://patreon.com/ysskrishna)
 
 ## License
 
