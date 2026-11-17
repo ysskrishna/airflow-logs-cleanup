@@ -1,7 +1,8 @@
 # Airflow Logs Cleanup
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ysskrishna/airflow-logs-cleanup/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+[![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
 
 A lightweight solution to automatically clean up old Airflow log files, helping you save disk space and keep your Airflow environment tidy. This repository provides both a standalone script and an Airflow DAG for automated log cleanup.
 
@@ -104,23 +105,32 @@ All errors are logged to the console without stopping the cleanup process.
 
 Please read our [Contributing Guide](https://github.com/ysskrishna/airflow-logs-cleanup/blob/main/CONTRIBUTING.md) for details on our code of conduct, development setup, and the process for submitting pull requests.
 
+## Built and maintained by
+
+Airflow Logs Cleanup is built and maintained by:
+
+| | Name | GitHub | Role |
+|---|------|--------|------|
+| <img src="https://github.com/ysskrishna.png?size=120" width="60" height="60" alt="Y. Siva Sai Krishna"> | **Y. Siva Sai Krishna** | [@ysskrishna](https://github.com/ysskrishna) | Creator |
 
 ## Support
 
-If you find this useful, please consider:
+If you find this project helpful:
 
-- ⭐ **Starring** the repository on GitHub to help others discover it.
-- 💖 **Sponsoring** to support ongoing maintenance and development.
-
-[Become a Sponsor on GitHub](https://github.com/sponsors/ysskrishna) | [Support on Patreon](https://patreon.com/ysskrishna)
+- ⭐ Star the repository
+- 🐛 [Report issues](https://github.com/ysskrishna/airflow-logs-cleanup/issues)
+- 🔀 Submit pull requests
+- 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
 
 ## License
 
-MIT License - see the [LICENSE](https://github.com/ysskrishna/airflow-logs-cleanup/blob/main/LICENSE) file for details.
+MIT © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
 
-## Author
+---
 
-**Y. Siva Sai Krishna**
-
-- GitHub: [@ysskrishna](https://github.com/ysskrishna)
-- LinkedIn: [ysskrishna](https://linkedin.com/in/ysskrishna) 
+<p align="left">
+  <a href="https://github.com/ysskrishna">Author's GitHub</a> •
+  <a href="https://linkedin.com/in/ysskrishna">Author's LinkedIn</a> •
+  <a href="https://ysskrishna.space">Author's site</a> •
+  <a href="https://github.com/ysskrishna/airflow-logs-cleanup/issues">Report Issues</a>
+</p>
